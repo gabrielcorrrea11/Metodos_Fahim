@@ -4,7 +4,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Random;
 
-class SortingAlgorithmsDemo {
+public class SortingAlgorithmsDemo {
 
     public static void main(String[] args) {
         int[] array = generateRandomArray(15, 1, 100);
